@@ -33,19 +33,24 @@ This is a clean and responsive **Recipe App** built with **Flutter** and **Provi
 
 ---
 ## 🖥️ Screenshots
-
+## 🖥️ Screenshots
 
 ### Recipe Details
-![Recipe Details](screenshots/4.png)
-![Recipe Details](screenshots/5.png)
+
+<p align="center">
+  <img src="screenshots/4.png" width="45%" />
+  <img src="screenshots/5.png" width="45%" />
+</p>
 
 ---
 
 ### HomePage
-![Trending Recipes](screenshots/1.png)
-![Trending Recipes](screenshots/2.png)
-![Trending Recipes](screenshots/3.png)
 
+<p align="center">
+  <img src="screenshots/1.png" width="30%" />
+  <img src="screenshots/2.png" width="30%" />
+  <img src="screenshots/3.png" width="30%" />
+</p>
 ---
 ## 🚀 Getting Started
 
@@ -59,4 +64,4 @@ This is a clean and responsive **Recipe App** built with **Flutter** and **Provi
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/flutter-recipe-app.git
+git clone https://github.com/ain-py/flutter-recipe-app.git
