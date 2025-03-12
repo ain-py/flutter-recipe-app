@@ -45,8 +45,8 @@ This is a clean and responsive **Recipe App** built with **Flutter** and **Provi
 ### Recipe Details
 
 <p align="center">
-  <img src="screenshots/4.png" width="300px" height="200px"/>
-  <img src="screenshots/5.png" width="300px" height="200px"/>
+  <img src="screenshots/4.png" width="300px" height="600px"/>
+  <img src="screenshots/5.png" width="300px" height="600px"/>
 </p>
 
 ---
